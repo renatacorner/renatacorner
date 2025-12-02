@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://logodownload.org/wp-content/uploads/2024/05/metlife-logo-0.png" alt="Renata Corner" width="150px" style="border-radius: 50%;">
   <h1>Hello, World! &lt;/&gt;</h1>
   <h3>Eu sou a Renata Corner</h3>
   <p>
@@ -63,8 +64,15 @@ Se você viu alguma tecnologia acima que domina, ou se quer apenas entender como
 
 1.  Me mande um "Hello" no [LinkedIn](https://www.linkedin.com/in/renata-corner).
 2.  Envie seu CV diretamente para **renata.corner@outlook.com**.
-3.  Ou dê uma olhada nas nossas vagas abertas!
+3.  Ou [dê uma olhada nas nossas vagas abertas!](https://www.metlifecareers.com/en_US/ml/Home)
 
 <div align="center">
   <i>"Estou sempre disposta a aprender coisas novas e gosto muito do contato com pessoas diferentes!"</i>
+  
+  <a href="https://www.linkedin.com/in/renata-corner">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:renata.corner@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Send%20CV-d9534f?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+  </a>
 </div>
